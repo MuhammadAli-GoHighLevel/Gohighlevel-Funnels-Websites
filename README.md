@@ -59,9 +59,9 @@ This portfolio will showcase selected funnel and website development projects th
 - Appointment booking
 - Automated follow-ups
 
-**Screenshots:** To be added.
-
 ### Project 2: GoHighLevel Business Website
+
+![GoHighLevel Sales Funnels](GoHighLevel%20-%20Funnels.webp)
 
 **Project type:** Business website development
 
