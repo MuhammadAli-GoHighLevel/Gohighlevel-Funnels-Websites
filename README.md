@@ -41,6 +41,11 @@ I specialize in designing and developing conversion-focused GoHighLevel websites
 
 This portfolio will showcase selected funnel and website development projects through screenshots, project summaries, and permitted live examples.
 
+
+### Featured GoHighLevel Funnel Design
+
+![GoHighLevel Top Performing Sales Funnel](GHL%20Top%20Performing%20Funnel.jpeg)
+
 ### Project 1: Lead Generation & Appointment Booking Funnel
 
 **Project type:** GoHighLevel sales funnel
